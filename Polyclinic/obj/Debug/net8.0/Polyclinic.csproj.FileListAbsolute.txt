@@ -1,0 +1,14 @@
+/home/operatorio/Документы/meCodes/Polyclinic/bin/Debug/net8.0/Polyclinic
+/home/operatorio/Документы/meCodes/Polyclinic/bin/Debug/net8.0/Polyclinic.deps.json
+/home/operatorio/Документы/meCodes/Polyclinic/bin/Debug/net8.0/Polyclinic.runtimeconfig.json
+/home/operatorio/Документы/meCodes/Polyclinic/bin/Debug/net8.0/Polyclinic.dll
+/home/operatorio/Документы/meCodes/Polyclinic/bin/Debug/net8.0/Polyclinic.pdb
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.dll
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/refint/Polyclinic.dll
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.pdb
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/Polyclinic.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/Polyclinic/obj/Debug/net8.0/ref/Polyclinic.dll
