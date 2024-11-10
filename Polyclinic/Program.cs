@@ -7,15 +7,15 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Укажите количество человек в очереди");
-        int peopleQuery = int.Parse(Console.ReadLine());
-        int waitInMinutes = 10;
+        int peopleInLine = int.Parse(Console.ReadLine());
+        int visitMinutes = 10;
 
-        int hourInMinutes = 60;
+        int minutesInHour = 60;
 
-        int resultHours = (peopleQuery * waitInMinutes) / hourInMinutes;
-        int resultMinutes = (peopleQuery * waitInMinutes) % hourInMinutes;
+        int waitingHour = (peopleInLine * visitMinutes) / minutesInHour;
+        int waitingMinute = (peopleInLine * visitMinutes) % minutesInHour;
 
         Console.WriteLine("Вам предстоит отстоять в очереди: " +
-                        $"{resultHours}h {resultMinutes}m");
+                        $"{waitingHour}h {waitingMinute}m");
     }
 }
