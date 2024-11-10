@@ -12,10 +12,10 @@ class Program
 
         int minutesInHour = 60;
 
-        int waitingHour = (peopleInLine * visitMinutes) / minutesInHour;
-        int waitingMinute = (peopleInLine * visitMinutes) % minutesInHour;
+        int waitingHours = (peopleInLine * visitMinutes) / minutesInHour;
+        int waitingMinutes = (peopleInLine * visitMinutes) % minutesInHour;
 
         Console.WriteLine("Вам предстоит отстоять в очереди: " +
-                        $"{waitingHour}h {waitingMinute}m");
+                        $"{waitingHours}h {waitingMinutes}m");
     }
 }
